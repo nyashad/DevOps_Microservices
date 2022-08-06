@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<nyashad>](https://circleci.com/github/nyashad/DevOps_Microservices.svg?style=svg)](https://app.circleci.com/pipelines/github/nyashad/DevOps_Microservices)
 
 ## Project Overview
 
